@@ -1,4 +1,4 @@
-#######  #                                                                                                 💫 Hi 👋, I'm Dayanand
+##                                                                                             💫 Hi 👋, I'm Dayanand
   
 [![](https://visitcount.itsvg.in/api?id=daya161998&icon=0&color=3)](https://visitcount.itsvg.in)
 
