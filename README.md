@@ -1,4 +1,4 @@
-#         ![Header](./your-header-image-name.png)                                                                                    💫 Hi 👋, I'm Dayanand
+#        ![github-header-image (2)](https://github.com/daya161998/daya161998/assets/138598097/2eab26f3-ba8a-4d55-aacf-881d584011ff)
   
 [![](https://visitcount.itsvg.in/api?id=daya161998&icon=0&color=3)](https://visitcount.itsvg.in)
 
