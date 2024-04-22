@@ -2,7 +2,7 @@
   
 [![](https://visitcount.itsvg.in/api?id=daya161998&icon=0&color=3)](https://visitcount.itsvg.in)
 
-.🌱 I’m currently learning Data Analytics<br><br>👨‍💻 I’m currently working on supply chain Management<br><br>🌱 I’m currently learning Golang and System Design<br><br>💬 Ask me about Data Database, RDBMS, Data Cleaning, Data Transformation, Visualization<br><br>📫 Reach out to me at dayanand1641998@gmail.com<br><br>📑 Check out my resume here -[MY RESUME](https://acrobat.adobe.com/id/urn:aaid:sc:ap:6a536cab-2f33-4fc8-82de-b11497c88dce)<br>
+🌱 I’m currently learning Data Analytics<br><br>👨‍💻 I’m currently working on supply chain Management<br><br>🌱 I’m currently learning Golang and System Design<br><br>💬 Ask me about Data Database, RDBMS, Data Cleaning, Data Transformation, Visualization<br><br>📫 Reach out to me at dayanand1641998@gmail.com<br><br>📑 Check out my resume here -[MY RESUME](https://acrobat.adobe.com/id/urn:aaid:sc:ap:6a536cab-2f33-4fc8-82de-b11497c88dce)<br>
 
 
 ## 🌐 Socials:
