@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Dayanand
 🌱 I’m currently learning Data Analytics<br>👨‍💻 I’m currently working on supply chain Management<br>🌱 I’m currently learning Golang and System Design<br>💬 Ask me about Data Database, RDBMS, Data Cleaning, Data Transformation, Visualization<br>📫 Reach out to me at dayanand1641998@gmail.com<br>📑 Check out my resume here -
 
 
